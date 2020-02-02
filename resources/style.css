@@ -60,14 +60,14 @@ div {
     margin-right: 32px;
 }
 
-.column.large {
+.column .large {
     width: 630px;
 }
 
-.column.medium {
+.column .medium {
     width: 300px;
 }
 
-.column.small {
+.column .small {
     width: 240px;
 }
